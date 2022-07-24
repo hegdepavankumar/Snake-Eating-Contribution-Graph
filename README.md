@@ -124,7 +124,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: Pavankumar-Hegde
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -171,7 +171,7 @@ https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-g
 
 Add this to your profile by copying the file location onto a new line in your markdown file:
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Pavankumar-Hegde/Pavankumar-Hegde/blob/output/github-contribution-grid-snake.gif)
 
 Now you should have a really cool looking snake eating your contributions!
 
